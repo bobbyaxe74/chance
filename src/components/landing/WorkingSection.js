@@ -41,7 +41,7 @@ export default function WorkingSection() {
                         <H4 color="white">Moments are the elements of profit.</H4>
                         <LeadText color="white">
                             Get to be a winner in the weekly and monthly lottery organised, and stand to win more by staking right on time.
-                           You can stake with whatever amount, but still better an ounce of luck than a pound of gold.
+                           You can stake with whatever amount but still, better an ounce of luck than a pound of gold.
                         </LeadText>
                         <LeadText color="white">
                         We support all ERC20 compliant tokens as well as ETH and BNB. Wins can also be instantly withdrawn into your account.
@@ -56,7 +56,7 @@ export default function WorkingSection() {
                             <CardBody>
                                 <H6 color="white">Top Notch Services</H6>
                                 <Paragraph color="white">
-                                    If you decide to compete in a pool amongst your friends. We are here for you. simply do that by sending your friends the lottery link before it tomes out.
+                                    If you decide to compete in a pool amongst your friends. We are here for you. simply do that by sending your friends the lottery link before it times out.
                                 </Paragraph>
                             </CardBody>
                         </Card>

@@ -9,12 +9,14 @@ export default function Header() {
                 <div className="items-center flex flex-wrap">
                     <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                         {/* <H2 color="white">Everyone stands a chance.</H2> */}
-                        <h1 class="my-4 text-5xl md:text-5xl text-white opacity-75 font-bold leading-tight text-center md:text-left">
+                        <h1 class="my-4 text-3xl md:text-5xl text-white opacity-75 font-bold leading-tight text-center md:text-left">
             Every
-            <span class="bg-clip-text mr-2 text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
-              one Stands 
+            <span class="bg-clip-text mr-2 md:mr-2 text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
+              one Stands
             </span>
-             a Chance!
+            <span className="" >
+            a Chance!
+            </span>
           </h1>
                         <div className="text-gray-200">
                             <LeadText color="gray-200">
